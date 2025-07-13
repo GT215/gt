@@ -1,2 +1,2 @@
 # gt
-yolov5 detection
+cube
